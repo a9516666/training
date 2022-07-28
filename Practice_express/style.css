@@ -1,0 +1,10 @@
+.gg {
+  display: grid;
+  grid-template-columns: 1fr 2fr 3fr 1fr;
+  gap: 5%;
+}
+
+.gi {
+  background-color: aquamarine;
+  border: 1px solid grey;
+}
